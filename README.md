@@ -14,10 +14,7 @@ PDFChatBot is an open-source Python project that allows you to build a chatbot f
 Replace "YOUR_PDF_FILE_PATH" with the path to your PDF file.
 Replace "YOUR_QUESTION" with the question you want to ask.
 
-```bash
-$ python chat_bot.py
 
-```
 
 ## Project Structure
 
