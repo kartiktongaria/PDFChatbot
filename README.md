@@ -16,7 +16,7 @@ Replace "YOUR_QUESTION" with the question you want to ask.
 
 ```bash
 $ python chat_bot.py
-exit
+
 ```
 
 ## Project Structure
