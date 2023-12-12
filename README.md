@@ -18,9 +18,10 @@ Replace "YOUR_QUESTION" with the question you want to ask.
 
 ## Project Structure
 
-chat_bot.py: Main script for the chatbot.
-PyPDFLoader.py: PDF loader using PyPDF2.
-text_splitter.py: Text splitting utilities.
-embedding.py: Text embedding using SBERT with MPNet.
-vectorizer.py: Document vectorization using Chroma.
-flan_t5_base.py: Text generation using T5 from the Flan model.
+- chat_bot.py: Main script for the chatbot.
+- PyPDFLoader.py: PDF loader using PyPDF2.
+- text_splitter.py: Text splitting utilities.
+- nembedding.py: Text embedding using SBERT with MPNet.
+- vectorizer.py: Document vectorization using Chroma.
+- flan_t5_base.py: Text generation using T5 from the Flan model.
+  
