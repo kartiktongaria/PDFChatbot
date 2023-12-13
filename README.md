@@ -18,7 +18,7 @@ Replace "YOUR_QUESTION" with the question you want to ask.
 
 ## Project Structure
 
-- chat_bot.py: Main script for the chatbot.
+- chat_bot.ipynb: Main script for the chatbot.
 - PyPDFLoader.py: PDF loader using PyPDF2.
 - text_splitter.py: Text splitting utilities.
 - nembedding.py: Text embedding using SBERT with MPNet.
