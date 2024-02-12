@@ -2,6 +2,8 @@
 
 PDFChatBot is an open-source Python project that allows you to build a chatbot for interacting with PDF documents. The chatbot extracts information from PDFs, performs text analysis, and answers questions without relying on any external APIs. This project utilizes open-source libraries and models.
 
+Demo Link ((https://colab.research.google.com/drive/1iQ9J8ltU0ndvG8JNqkMsQ9ea2V4mxfku?usp=sharing))
+
 ## Features
 
 - Extracts text content from PDF documents using an open-source PDF loader (PyPDF2).
